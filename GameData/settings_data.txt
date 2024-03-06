@@ -1,0 +1,9 @@
+#Fullscreen
+1
+#Volume
+4
+#Controls
+a 65
+d 68
+SP 32
+#EndLine
